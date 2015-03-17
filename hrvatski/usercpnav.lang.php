@@ -22,7 +22,7 @@
 $l['ucp_nav_width'] = '180';
 $l['ucp_nav_menu'] = 'Menu';
 $l['ucp_nav_messenger'] = 'Poruke';
-$l['ucp_nav_compose'] = 'Nova';
+$l['ucp_nav_compose'] = 'Sastavi';
 $l['ucp_nav_tracking'] = 'Tracking';
 $l['ucp_nav_edit_folders'] = 'Uredi mape';
 $l['ucp_nav_profile'] = 'Vaš profil';
