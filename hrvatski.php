@@ -12,10 +12,10 @@ $langinfo['name'] = "Hrvatski (Croatian)";
 $langinfo['author'] = "Ivan Kerepčić";
 
 // The language authors website
-$langinfo['website'] = "http://www.ikerepc.tk/";
+$langinfo['website'] = "http://ivankerepcic.iz.hr/";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1804";
+$langinfo['version'] = "1813";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 0;
