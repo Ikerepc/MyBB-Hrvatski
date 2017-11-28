@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Thu, 12 Mar 2015 15:54:16 +0000
+// Last edited date : Sat, 03 Jun 2017 12:13:25 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_newthread'] = 'Nova tema';
@@ -60,3 +60,4 @@ $l['error_suspendedposting'] = 'Vaše privilegije postanja su trenutno suspendir
 Datum suspenzije: {2}';
 $l['error_suspendedposting_temporal'] = 'do {1}';
 $l['error_suspendedposting_permanent'] = 'trajno';
+$l['redirect_newthread_unviewable'] = '<br />Nemate dopuštenje da biste vidjeli teme u ovom forumu. Sada ćete biti vraćeni na početnu stranicu foruma.';

@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Thu, 12 Mar 2015 14:54:53 +0000
+// Last edited date : Sat, 03 Jun 2017 11:33:39 +0000
 // --------------------------------------------------------------------------------
 
 $l['userdata_missing_username'] = 'Niste unijeli korisničko ime. Molimo vas da ga uneste.';
@@ -51,3 +51,9 @@ $l['userdata_max_limit_reached'] = 'Unijeli ste neispravan broj znakova polja "{
 $l['userdata_invalid_checkfield'] = 'Otkrili smo da je ovaj obrazac popunio spam robot. Ako je to pogreška, molimo vas da kontaktirate administratora foruma.';
 $l['userdata_invalid_postnum'] = 'Broj poruka koji ste unijeli nije ispravan. Molimo unesite ispravan broj poruka, ili ostavite prazno polje.';
 $l['userdata_invalid_threadnum'] = 'Broj tema koji ste unijeli nije ispravan. Molimo unesite ispravan broj tema, ili ostavite prazno polje.';
+$l['userdata_invalid_style'] = 'Stil koji ste izabrali nije valjan. Molimo izaberite valjani stil.';
+$l['userdata_too_many_sig_images'] = 'Žao nam je, ne možete ažurirati potpis jer sadrži previše slika. Molimo da maknete neke slike kako biste nastavili.';
+$l['userdata_too_many_sig_images2'] = '<strong>Pažnja:</strong> Najveći broj slika dopuštenih u potpisu je {1}.';
+$l['userdata_sig_too_long'] = 'Ne možete ažurirati vaš potpis jer je predugačak. Najveća dužina potpisa je {1} znakova. ';
+$l['userdata_sig_remove_chars_plural'] = 'Molimo maknite {1} znakova pa pokušajte ponovno.';
+$l['userdata_sig_remove_chars_singular'] = 'Molimo maknite 1 znak pa pokušajte ponovno';

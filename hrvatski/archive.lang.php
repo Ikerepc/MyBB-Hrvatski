@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Thu, 12 Mar 2015 14:52:15 +0000
+// Last edited date : Sat, 03 Jun 2017 11:26:59 +0000
 // --------------------------------------------------------------------------------
 
 $l['archive_fullversion'] = 'Puna Verzija:';
@@ -29,3 +29,4 @@ $l['error_nothreads'] = 'Trenutno nema tema u ovome forumu.';
 $l['error_unapproved_thread'] = 'Ova tema nije odobrena. Molimo <a href="{1}">pogledajte punu verziju</a> za pregled sadržaja ove teme.';
 $l['archive_not_found'] = 'Tražena stranica nije pronađena na ovom serveru.';
 $l['error_mustlogin'] = 'Ovaj forum zahtjeva prijavu svih korisnika.';
+$l['error_nopermission'] = 'Nemate dopuštenje za vidjeti teme u ovom forumu';

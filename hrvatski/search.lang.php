@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Fri, 13 Mar 2015 22:22:36 +0000
+// Last edited date : Sat, 03 Jun 2017 12:11:32 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_search'] = 'Traži';
@@ -118,3 +118,6 @@ $l['error_nosearchterms'] = 'Niste unijeli niti jedan uvijet za pretraživanje. 
 $l['error_searchflooding_1'] = 'Žao nam je, ali možete obaviti jednu pretragu svakih {1} sekundi. Molimo vas da pričekate još 1 sekundu prije ponovnog traženja.';
 $l['error_searchflooding'] = 'Žao nam je, ali možete obaviti jednu pretragu svakih {1} sekundi. Molimo vas da pričekate još {2} sekundi prije ponovnog traženja.';
 $l['error_invalidsearch'] = 'Neispravna pretraga je navedena. Molimo vas da se vratite natrag i pokušate ponovno.';
+$l['soft_delete_threads'] = 'Površno obriši teme';
+$l['restore_threads'] = 'Vrati teme';
+$l['inline_move_posts'] = 'Premjesti postove';

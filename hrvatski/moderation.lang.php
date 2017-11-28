@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,61 +13,61 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Thu, 12 Mar 2015 15:05:54 +0000
+// Last edited date : Tue, 06 Jun 2017 10:58:44 +0000
 // --------------------------------------------------------------------------------
 
-$l['nav_deletethread'] = 'Delete Thread Permanently';
-$l['nav_deletepoll'] = 'Delete Poll';
-$l['nav_deleteposts'] = 'Delete Selective Posts';
-$l['nav_mergeposts'] = 'Merge Selective Posts';
-$l['nav_move'] = 'Move or Copy Thread';
-$l['nav_threadnotes'] = 'Thread Notes and Moderator Log';
-$l['nav_getip'] = 'View Post IP Address';
-$l['nav_getpmip'] = 'View PM IP Address';
-$l['nav_pms'] = 'Private Messages';
-$l['nav_merge'] = 'Merge Threads';
-$l['nav_split'] = 'Split Thread';
-$l['nav_multi_deletethreads'] = 'Inline Thread Deletion';
-$l['nav_multi_deleteposts'] = 'Inline Post Deletion';
-$l['nav_multi_splitposts'] = 'Split Selected Posts';
-$l['nav_multi_moveposts'] = 'Move Selected Posts';
-$l['nav_multi_mergeposts'] = 'Merge Selected Posts';
-$l['nav_multi_movethreads'] = 'Move Threads';
-$l['no_mod_options'] = 'No moderation options have yet been performed on this thread.';
+$l['nav_deletethread'] = 'Trajno izbriši teme';
+$l['nav_deletepoll'] = 'Izbriši anketu';
+$l['nav_deleteposts'] = 'Izbriši odabrane postove';
+$l['nav_mergeposts'] = 'Spoji odabrane postove';
+$l['nav_move'] = 'Premjesti ili kopiraj temu';
+$l['nav_threadnotes'] = 'Bilješke teme i moderatorski zapisi';
+$l['nav_getip'] = 'Pogledaj IP adresu posta';
+$l['nav_getpmip'] = 'Pogledaj IP adresu privatne poruke';
+$l['nav_pms'] = 'Privatne poruke';
+$l['nav_merge'] = 'Spoji teme';
+$l['nav_split'] = 'Razdvoji temu';
+$l['nav_multi_deletethreads'] = 'Brzo brisanje teme';
+$l['nav_multi_deleteposts'] = 'Brzo brisanje posta';
+$l['nav_multi_splitposts'] = 'Razdvoji odabrane postove';
+$l['nav_multi_moveposts'] = 'Premjesti odabrane postove';
+$l['nav_multi_mergeposts'] = 'Spoji odabrane postove';
+$l['nav_multi_movethreads'] = 'Premjesti teme';
+$l['no_mod_options'] = 'Nema moderatorskih opcija koje su izvršene na ovoj temi.';
 $l['no_delayed_mods'] = 'No delayed moderation actions are scheduled to be performed on the selected thread(s).';
-$l['delete_poll'] = 'Delete Poll';
-$l['delete_posts'] = 'Delete Posts Permanently';
-$l['delete_selected_posts'] = 'Delete Selected Posts';
-$l['posted_by'] = 'Posted by';
-$l['delete_thread'] = 'Delete Thread Permanently';
-$l['get_post_ip'] = 'Get Post IP Address';
-$l['get_pm_ip'] = 'Get PM IP Address';
-$l['info_on_ip'] = 'Information on this IP address';
-$l['ip_address'] = 'IP Address:';
-$l['hostname'] = 'Hostname:';
-$l['if_resolvable'] = '(if resolvable)';
-$l['mod_options'] = 'Moderator Options:';
-$l['search_ip_users'] = 'Search for users with this IP';
-$l['search_ip_posts'] = 'Search for posts with this IP';
-$l['merge_threads'] = 'Merge Threads';
-$l['new_subject'] = 'New Subject:';
-$l['thread_to_merge_with'] = 'Thread to merge with:';
+$l['delete_poll'] = 'Izbriši anketu';
+$l['delete_posts'] = 'Trajno izbriši postove';
+$l['delete_selected_posts'] = 'Izbriši označene postove';
+$l['posted_by'] = 'Postao korisnik';
+$l['delete_thread'] = 'Trajno izbriši temu';
+$l['get_post_ip'] = 'Vidi IP adresu posta';
+$l['get_pm_ip'] = 'Vidi IP adresu privatne poruke';
+$l['info_on_ip'] = 'Informacije za ovu IP adresu';
+$l['ip_address'] = 'IP Adresa:';
+$l['hostname'] = 'Ime hosta:';
+$l['if_resolvable'] = '(ako je moguće)';
+$l['mod_options'] = 'Moderatorske opcije:';
+$l['search_ip_users'] = 'Traži korisnike s ovom IP adresom';
+$l['search_ip_posts'] = 'Traži postove s ovom IP adresom';
+$l['merge_threads'] = 'Spoji teme';
+$l['new_subject'] = 'Novi naslov:';
+$l['thread_to_merge_with'] = 'Teme za spajanje:';
 $l['merge_with_note'] = 'Copy the URL of the thread to be merged into this one into the textbox on the right.<br />The thread on the right will be deleted and all posts will be merged in to this one.';
-$l['merge_posts'] = 'Merge Posts';
-$l['merge_posts_note'] = 'All selected posts will be merged in to the first selected post.';
-$l['move_copy_thread'] = 'Move / Copy Thread';
-$l['new_forum'] = 'New Forum:';
-$l['method'] = 'Method';
-$l['method_move'] = 'Move thread';
+$l['merge_posts'] = 'Spoji postove';
+$l['merge_posts_note'] = 'Svi odabrani postovi će biti spojeni u prvi odabrani post.';
+$l['move_copy_thread'] = 'Premjesti / Kopiraj temu';
+$l['new_forum'] = 'Novi forum:';
+$l['method'] = 'Metoda';
+$l['method_move'] = 'Premjesti temu';
 $l['method_move_redirect'] = 'Move thread and leave redirect in existing forum for days:';
-$l['redirect_expire_note'] = '(leave blank for \'infinite\')';
-$l['method_copy'] = 'Copy thread to the new forum';
-$l['split_thread_subject'] = '[split]';
-$l['split_thread'] = 'Split Thread';
-$l['move_posts'] = 'Move Posts';
+$l['redirect_expire_note'] = '(ostavite prazno za beskonačno)';
+$l['method_copy'] = 'Kopiraj temu na novi forum';
+$l['split_thread_subject'] = '[razdvoji]';
+$l['split_thread'] = 'Razdvoji temu';
+$l['move_posts'] = 'Premjesti postove';
 $l['thread_to_move_to'] = 'Thread to move the posts to:';
 $l['move_post_note'] = 'Copy the URL of the thread to move these posts to into the textbox on the right.';
 $l['new_thread_info'] = 'New Thread Information';
@@ -226,3 +226,4 @@ $l['redirect_delayed_moderation_thread'] = 'The selected moderation tool has bee
 $l['redirect_delayed_moderation_forum'] = 'The selected moderation tool has been saved and delayed till {1}.<br />You will now be returned to the forum.';
 $l['redirect_delayed_moderation_search'] = 'The selected moderation tool has been saved and delayed till {1}.<br />You will now be returned to the search.';
 $l['redirect_delayed_moderation_cancelled'] = 'The selected delayed moderation action has been canceled.<br />You will now be returned to the delayed moderation page.';
+$l['time'] = 'Time:';

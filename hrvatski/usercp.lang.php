@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Mon, 16 Mar 2015 15:03:30 +0000
+// Last edited date : Sat, 03 Jun 2017 12:08:16 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_usercp'] = 'Korisnička ploča';
@@ -436,3 +436,5 @@ $l['buddyrequest_accepted'] = 'Odabrani zahtjev za prijateljstvom je prihvaćen.
 $l['buddyrequest_declined'] = 'Odabrani zahtjev za prijateljstvom je odbijen.';
 $l['user_doesnt_exist'] = 'Krajnji korisnik više ne postoji.';
 $l['buddyrequests_sent_success'] = 'Zahtjev za prijateljstvom uspješno poslan.';
+$l['using_remote_avatar'] = 'Trenutno koristite avatar s udaljene stranice. Ako odaberete drugog, vaš stari avatar će biti maknut.';
+$l['error_remote_avatar_not_allowed'] = 'Linkovi avatara s udaljenih stranica su zabranjeni od strane administratora.';

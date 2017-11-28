@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Thu, 12 Mar 2015 16:03:16 +0000
+// Last edited date : Sat, 03 Jun 2017 12:11:57 +0000
 // --------------------------------------------------------------------------------
 
 $l['report_reason'] = 'Razlog prijave:';
@@ -36,3 +36,5 @@ $l['error_report_length'] = 'Molimo vas da detaljno napišete razlog vaše prija
 $l['error_invalid_report'] = 'Ovaj sadržaj ne postoji ili ga nije moguće prijaviti.';
 $l['error_report_duplicate'] = 'Ovaj je sadržaj već prijavljen od strane nekog drugog člana foruma.<br />Vi ga također možete prijaviti.';
 $l['report_reason_other_description'] = 'Ako izaberete \'ostalo\', molimo vas da navedete razlog za prijavu ovog sadržaja.';
+$l['error_invalid_report_reason'] = 'Odabrani razlog nije ispravan.';
+$l['error_comment_required'] = 'Zahtjeva se pisanje dodatnog komentara za odabrani razlog.';

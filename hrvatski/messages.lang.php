@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Mon, 16 Mar 2015 15:33:58 +0000
+// Last edited date : Sat, 03 Jun 2017 12:05:47 +0000
 // --------------------------------------------------------------------------------
 
 $l['click_no_wait'] = 'Kliknite ovdje ako više ne želite čekati.';
@@ -162,7 +162,7 @@ $l['email_reportpost'] = '{1} od {2} je prijavio slijedeći post:
 {3}
 {4}/{5}
 
-Razlog koji je korisnik naveo va prijavu posta:
+Razlog koji je korisnik naveo za prijavu posta:
 {7}
 
 Ova poruka je poslana svim moderatorima ovoga foruma, ili supermoderatorima i administratorima ako taj forum nema moderatora.
@@ -320,7 +320,7 @@ Thank you,
 Unsubscription Information:
 
 If you would not like to receive any more notifications of replies to this thread, visit the following URL in your browser:
-{6}/usercp2.php?action=removesubscription&tid={8}&key={9}&my_post_key={10}
+{6}/usercp2.php?action=removesubscription&tid={8}&my_post_key={9}
 
 ------------------------------------------';
 $l['email_reachedpmquota'] = '{1},
@@ -458,6 +458,37 @@ There may also be other replies to this thread but you will not receive anymore 
 Unsubscription Information:
 
 If you would not like to receive any more notifications of replies to this thread, visit the following URL in your browser:
-[url]{5}/usercp2.php?action=removesubscription&tid={7}&key={8}&my_post_key={9}[/url]
+[url]{5}/usercp2.php?action=removesubscription&tid={7}&my_post_key={8}[/url]
 
 ------------------------------------------';
+$l['emailsubject_reportprofile'] = 'Prijavljeni korisnik na {1}';
+$l['emailsubject_reportreputation'] = 'Prijavljeni ugled na {1}';
+$l['email_reportprofile'] = '{1} od {2} je prijavio slijedećeg korisnika:
+
+{3}
+{4}/{5}
+
+Razlog koji je korisnik naveo za prijavu korisnika:
+{7}
+
+Ova poruka je poslana svim moderatorima ovoga foruma, ili supermoderatorima i administratorima ako taj forum nema moderatora.
+
+Molimo vas da provjerite ovoga korisnika što je prije moguće.';
+$l['email_reportreputation'] = '{1} od {2} je prijavio slijedeći ugled:
+
+{3}
+{4}/{5}
+
+Razlog koji je korisnik naveo za prijavu ugleda:
+{7}
+
+Ova poruka je poslana svim moderatorima ovoga foruma, ili supermoderatorima i administratorima ako taj forum nema moderatora.
+
+Molimo vas da provjerite taj ugled što je prije moguće.';
+$l['email_report_comment_extra'] = '{1}: {2}';
+$l['email_broken_task_subject'] = 'MyBB greška zadatka na {1}';
+$l['email_broken_task'] = 'Vaša kopija MyBB-a na {1} ({2}) je naišla na problem sa sistemom za zadatke.
+
+Datoteka zadatka za {3} nedostaje.
+
+Ovaj zadatak je obustavljen dok se greška ne riješi.';

@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1813
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Thu, 12 Mar 2015 15:03:04 +0000
+// Last edited date : Sun, 26 Nov 2017 21:57:34 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_register'] = 'Registracija';
@@ -167,7 +167,7 @@ $l['timeonline'] = 'Vrijeme provedeno na forumu:';
 $l['timeonline_hidden'] = '(Hidden)';
 $l['registrations_disabled'] = 'Žao nam je, ali u ovom se trenutku ne možete registrirati jer je administrator onemogućio otvaranje novih računa.';
 $l['error_username_length'] = 'Vaše korisničko ime nije ispravno. Korisničko ime mora biti između {1} i {2} znakova.';
-$l['error_stop_forum_spam_spammer'] = 'Žao nam je, vaše korisničko ime ili e-mail adresa se poklapa sa nekim od poznatog spamera. Ako mislite da je ovo pogreška, molimo vas, kontaktirajte administratora.';
+$l['error_stop_forum_spam_spammer'] = 'Žao nam je, vaše {1} se poklapa sa nekim od poznatog spamera. Ako mislite da je ovo pogreška, molimo vas, kontaktirajte administratora.';
 $l['error_stop_forum_spam_fetching'] = 'Žao nam je, nešto je krenulo krivo tokom provjere vašeg računa u bazi spamera. Najverojatnije se bazi ne može pristupiti. Molimo pokušajte ponovno kasnije.';
 $l['none_registered'] = 'Neutvrđeno';
 $l['not_specified'] = 'Nije određeno';
@@ -250,3 +250,7 @@ Korisničko ime: {3}
 
 Hvala vam,
 {2} Uprava';
+$l['ban_remaining'] = 'ostaje';
+$l['registration_ip'] = 'Registracijska IP adresa';
+$l['last_known_ip'] = 'Zadnja poznata IP adresa:';
+$l['js_validator_bad_password_security'] = 'Lozinka koju ste unijeli je slična ili vašem korisničkom imenu ili e-mail adresi. Molimo vas da unesete kompleksniju lozinku.';

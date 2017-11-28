@@ -2,8 +2,8 @@
 /**
  * MyBB Copyright 2014 MyBB Group, All Rights Reserved
  *
- * Website: http://www.mybb.com
- * License: http://www.mybb.com/about/license
+ * Website: https://mybb.com
+ * License: https://mybb.com/about/license
  *
  */
 
@@ -13,10 +13,10 @@
 // ================================================================================
 // Friendly name of the language : Hrvatski (Croatian)
 // Author of the language pack : Ivan Kerepčić
-// Language pack translators website : http://www.ikerepc.tk/
-// Compatible version of MyBB : 1804
+// Language pack translators website : http://ivankerepcic.iz.hr/
+// Compatible version of MyBB : 1812
 // Last edited in MyBB Editor by : Ikerepc
-// Last edited date : Thu, 12 Mar 2015 15:04:49 +0000
+// Last edited date : Sat, 03 Jun 2017 12:14:14 +0000
 // --------------------------------------------------------------------------------
 
 $l['nav_helpdocs'] = 'Dokumenti Pomoći';
@@ -94,3 +94,9 @@ $l['redirect_cookiescleared'] = 'Svi kolačići su očišćeni.';
 $l['error_invalidimtype'] = 'Ovaj član nema ovaj tip instant messenger računa naveden u profilu.';
 $l['error_invalidhelpdoc'] = 'Čini se da navedeni dokument pomoći ne postoji.';
 $l['dst_settings_updated'] = 'Vaše DST postavke su automatski promijenjene.<br /><br />Sada ćete biti vraćeni na forum.';
+$l['no_smilies'] = 'Trenutno nema dostupnih smajlića';
+$l['error_invalidforum'] = 'Neispravni forum';
+$l['error_invalidsearch'] = 'Neispravna pretraga je navedena. Molimo vas da se vratite natrag i pokušate ponovno.';
+$l['error_no_search_support'] = 'Databaza ne potržava pretraživanje';
+$l['error_searchflooding'] = 'Žao nam je ali možete pretraživati samo jednom svakih {1} sekundi. Molimo sačekajte još {2} sekundi prije nego pokušate opet pretraživati.';
+$l['error_searchflooding_1'] = 'Žao nam je ali možete pretraživati samo jednom svakih {1} sekundi. Molimo sačekajte još 1 sekundu prije nego pokušate opet pretraživati.';
