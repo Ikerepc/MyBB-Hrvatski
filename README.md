@@ -1,15 +1,16 @@
 # MyBB Hrvatski
 
-## Ažurirano za verziju 1.8.14
+### Ažurirano za verziju 1.8.14
 
 Nedostaje administratorski panel i neki moderatorski alati dok je moderatorski panel kao takav preveden.
 
 ______________________
 
-## Updated for version 1.8.14
+### Updated for version 1.8.14
 
 Admin cp is missing, mod cp is translated, but there is still some mod options wich are not translated.
 
+______
 
 # Installation / Instalacija
 
@@ -18,6 +19,8 @@ Za instalaciju podignite datoteke `hrvatski.php` te cijelu mapu `hrvatski` na va
 ____
 
 For installation upload file `hrvatski.php` and whole map named `hrvatski` to your forum root `/inc/languages/` map.
+
+____
 
 #### Hrvatski prijevod MyBB software-a.
 
