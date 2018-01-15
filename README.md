@@ -13,11 +13,11 @@ Admin cp is missing, mod cp is translated, but there is still some mod options w
 
 # Installation / Instalacija
 
-For installation upload file `hrvatski.php` and whole map named `hrvatski` to your forum root `/inc/languages/` map.
+Za instalaciju podignite datoteke `hrvatski.php` te cijelu mapu `hrvatski` na vaš server, gdje se nalaze datoteke vašeg foruma u mapu `/inc/languages/`.
 
 ____
 
-Za instalaciju podignite datoteke `hrvatski.php` te cijelu mapu `hrvatski` na vaš server, gdje se nalaze datoteke vašeg foruma u mapu `/inc/languages/`.
+For installation upload file `hrvatski.php` and whole map named `hrvatski` to your forum root `/inc/languages/` map.
 
 #### Hrvatski prijevod MyBB software-a.
 
